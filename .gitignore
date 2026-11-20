@@ -1,0 +1,5 @@
+bin/
+*.csv
+.env
+.env.*
+.DS_Store
